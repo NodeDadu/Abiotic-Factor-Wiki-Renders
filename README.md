@@ -1,5 +1,5 @@
 # Abiotic Factor Wiki Renders
-![Banner]()
+![Banner](Final/abf-wiki_reaper_1_fc.png)
 ##What
 Renders for the wiki page for abiotic factor of different entities and maybe more
 
