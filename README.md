@@ -1,5 +1,5 @@
 # Abiotic Factor Wiki Renders
-![Banner](Renders/Tarasque2.png)
+![Banner](Renders/Pest.png)
 ## What
 Renders for the wiki page for abiotic factor of different entities and maybe more
 
