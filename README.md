@@ -4,7 +4,7 @@
 Renders for the wiki page for abiotic factor of different entities and maybe more
 
 ## Where
-Renders are [here](
+Renders are [here](Renders)
 Source Blend files are here. Textures and HDRI not included
 
 ## Why
