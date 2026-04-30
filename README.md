@@ -1,5 +1,5 @@
 # Abiotic Factor Wiki Renders
-![Banner](Renders/Pest.png)
+![Banner](Marketing/Banner.jpg)
 ## What
 Renders and setup blend files for the [Abiotic Factor wiki page](https://abioticfactor.wiki.gg/) of different [entities](https://abioticfactor.wiki.gg/wiki/Entities) and maybe more..
 
